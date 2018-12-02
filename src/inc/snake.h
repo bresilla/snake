@@ -3,6 +3,7 @@
 #include <vector>
 #include <ncurses.h>
 #include <cstdlib>
+#include <unistd.h>
 
 struct snakepart{
     int x,y;
